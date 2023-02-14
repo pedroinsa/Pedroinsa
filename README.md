@@ -12,4 +12,4 @@ Por ejemplo:
 -Express.js
 
 
-Como ponerse en contacto conmigo? A través de mi correo electrónico que es el siguiente: pedrotinsausti@gmail.com😄 o  directamente en https://www.linkedin.com/in/pedro-torcuato-insausti-54958159/
+Como ponerse en contacto conmigo? A través de mi correo electrónico que es el siguiente: pedrotinsausti@gmail.com😄 o  directamente en https://www.linkedin.com/in/pedro-torcuato-insausti/
